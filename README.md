@@ -33,11 +33,11 @@
 </div>
 
 ###
-https://github.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/output/github-snake.svg
+[https://github.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/output/github-snake.svg](https://github.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/aa9ea54502ffe682b0a24abe482fc0f1fb520a31/github-snake-dark.svg)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/aa9ea54502ffe682b0a24abe482fc0f1fb520a31/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/aa9ea54502ffe682b0a24abe482fc0f1fb520a31/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Ahmed-Waleed-01/Ahmed-Waleed-01/blob/aa9ea54502ffe682b0a24abe482fc0f1fb520a31/github-snake.svg" />
 </picture>
 
 ###
